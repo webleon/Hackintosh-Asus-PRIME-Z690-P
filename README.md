@@ -2,10 +2,9 @@
 
 **Opencore Bootloader 0.9.8. Tested on Sonoma 14.3**
 
-![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/systeminfo.png)
 
 ## Hardware
-* **Motherboard**: [ASUS PRIME Z690-P WIFI D4](https://www.asus.com/motherboards-components/motherboards/prime/prime-z690-p-wifi-d4/)
+* **Motherboard**: [ASUS PRIME Z690-P WIFI D4](https://www.asus.com/motherboards-components/motherboards/prime/prime-z690-p-wifi-d4/) (BIOS Version: 3010)
 * **CPU**:  Intel® Core™ i5-13600KF
 * **GPU**: [AMD Radeon™ RX 5700 XT Challenger D 8G OC](https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%205700%20XT%20Challenger%20D%208G%20OC/)
 * **RAM**: Asgard 32GBx4 DDR4 @3600 
@@ -22,3 +21,8 @@
 * 10G LAN / Wireless / Bluetooth
 * Sleep & Wakeup
 * Airdrop / Airplay / Handoff / Universal Control
+
+
+## Screenshots
+![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/systeminfo.png)
+![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/geekbench6.png)
