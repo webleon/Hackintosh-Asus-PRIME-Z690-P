@@ -25,4 +25,5 @@
 
 ## Screenshots
 ![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/systeminfo.png)
+
 ![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/geekbench6.png)
