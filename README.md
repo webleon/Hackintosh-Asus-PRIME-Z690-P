@@ -9,7 +9,7 @@
 * **GPU**: [AMD Radeon™ RX 5700 XT Challenger D 8G OC](https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%205700%20XT%20Challenger%20D%208G%20OC/)
 * **RAM**: Asgard 32GBx4 DDR4 @3600 
 * **HDD**: Seagate FireCuda 510 2T
-* **LAN**: RTL825B / Intel X550-T2
+* **LAN**: RTL8125B / Intel X550-T2
 * **Wi-Fi & Bluetooth**: BCM94360NG
 
 
@@ -18,7 +18,7 @@
 * Radeon™ RX 5700 XT HW acceleration
 * Front panel / Back panel Audio Jacks
 * USB Ports (Aura USB port disabled due to macOS ports limit)
-* 10G LAN / Wireless / Bluetooth
+* all LAN / Wireless / Bluetooth
 * Sleep & Wakeup
 * Airdrop / Airplay / Handoff / Universal Control
 
