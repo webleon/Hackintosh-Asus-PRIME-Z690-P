@@ -23,29 +23,29 @@
 * Airdrop / Airplay / Handoff / Universal Control
 
 ## BIOS Settings
-#### Advanced \ Platform Misc Configuration
+### Advanced \ Platform Misc Configuration
 * PCI Express Native Power Management: Enabled
 * Native ASPM: Enabled
 * PEG - ASPM: L0sL1
-#### Advanced \ System Agent Configuration
+### Advanced \ System Agent Configuration
 * VT-d: Enabled
-#### Advanced \ Thunderbolt Configuration
+### Advanced \ Thunderbolt Configuration
 * PCIE Tunneling over USB4: Disabled
 * Discrete Thunderbolt Support: Disabled
-#### Advanced \ Trusted Computing
+### Advanced \ Trusted Computing
 * Security Device Support: Disable
-#### Advanced \ PCI Subsystem Settings
+### Advanced \ PCI Subsystem Settings
 * Above 4G Decoding: Enabled
 * Re-Size BAR Support: Enabled
-#### Advanced \ USB Configuration
+### Advanced \ USB Configuration
 * XHCI Hand-off: Enabled
 
-#### BOOT \ CSM
+### BOOT \ CSM
 * Launch CSM: Disabled
-#### BOOT \ Secure Boot
+### BOOT \ Secure Boot
 * OS Type: Other OS
 * Secure Boot Mode: Custom
-#### BOOT \ Boot Configuration
+### BOOT \ Boot Configuration
 * Fast Boot: Disabled
 
   
