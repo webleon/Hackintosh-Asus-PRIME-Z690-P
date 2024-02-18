@@ -34,9 +34,21 @@
 * Discrete Thunderbolt Support: Disabled
 #### Advanced \ Trusted Computing
 * Security Device Support: Disable
+#### Advanced \ PCI Subsystem Settings
+* Above 4G Decoding: Enabled
+* Re-Size BAR Support: Enabled
+#### Advanced \ USB Configuration
+* XHCI Hand-off: Enabled
+
+#### BOOT \ CSM
+* Launch CSM: Disabled
+#### BOOT \ Secure Boot
+* OS Type: Other OS
+* Secure Boot Mode: Custom
+#### BOOT \ Boot Configuration
+* Fast Boot: Disabled
+
   
-
-
 ## Screenshots
 ![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/systeminfo.png)
 
