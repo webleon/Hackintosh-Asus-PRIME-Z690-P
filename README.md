@@ -3,6 +3,7 @@
 **Opencore Bootloader 0.9.8. Tested on Sonoma 14.3**
 
 
+
 ## Hardware
 * **Motherboard**: [ASUS PRIME Z690-P WIFI D4](https://www.asus.com/motherboards-components/motherboards/prime/prime-z690-p-wifi-d4/) (BIOS Version: 3010)
 * **CPU**:  Intel® Core™ i5-13600KF
@@ -13,6 +14,7 @@
 * **Wi-Fi & Bluetooth**: BCM94360NG
 
 
+
 ## Working
 * CPU Turbo Boost & SpeedStep
 * Radeon™ RX 5700 XT HW acceleration
@@ -21,6 +23,8 @@
 * all LAN / Wireless / Bluetooth
 * Sleep & Wakeup
 * Airdrop / Airplay / Handoff / Universal Control
+
+
 
 ## BIOS Settings
 ### Advanced \ Platform Misc Configuration
@@ -47,6 +51,7 @@
 * Secure Boot Mode: Custom
 ### BOOT \ Boot Configuration
 * Fast Boot: Disabled
+
 
   
 ## Screenshots
