@@ -29,8 +29,11 @@
 * PEG - ASPM: L0sL1
 #### Advanced \ System Agent Configuration
 * VT-d: Enabled
-* 
-* 
+#### Advanced \ Thunderbolt Configuration
+* PCIE Tunneling over USB4: Disabled
+* Discrete Thunderbolt Support: Disabled
+#### Advanced \ Trusted Computing
+* Security Device Support: Disable
   
 
 
