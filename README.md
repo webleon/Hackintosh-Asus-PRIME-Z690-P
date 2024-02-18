@@ -22,6 +22,17 @@
 * Sleep & Wakeup
 * Airdrop / Airplay / Handoff / Universal Control
 
+## BIOS Settings
+#### Advanced \ Platform Misc Configuration
+* PCI Express Native Power Management: Enabled
+* Native ASPM: Enabled
+* PEG - ASPM: L0sL1
+#### Advanced \ System Agent Configuration
+* VT-d: Enabled
+* 
+* 
+  
+
 
 ## Screenshots
 ![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/systeminfo.png)
