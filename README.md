@@ -51,6 +51,11 @@
 * Secure Boot Mode: Custom
 
 
+
+## Post Install
+* Prevent high CPU usage caused by Bluetooth Deamon after wakeup with this [Script](https://gist.github.com/webleon/7506c84173fbe2dd02c8d13f27aec13b).
+
+
   
 ## Screenshots
 ![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/systeminfo.png)
