@@ -49,8 +49,6 @@
 ### BOOT \ Secure Boot
 * OS Type: Other OS
 * Secure Boot Mode: Custom
-### BOOT \ Boot Configuration
-* Fast Boot: Disabled
 
 
   
