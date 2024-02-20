@@ -53,7 +53,7 @@
 
 
 ## Post Install
-* Prevent high CPU usage caused by Bluetooth Deamon after wakeup with this [Script](https://gist.github.com/webleon/7506c84173fbe2dd02c8d13f27aec13b).
+* Prevent high CPU usage caused by Bluetooth Deamon after wakeup with this [Script](https://gist.github.com/webleon/2c2d5aba4e131acad04812ceb93ced8f).
 
 
   
