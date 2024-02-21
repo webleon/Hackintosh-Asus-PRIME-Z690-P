@@ -54,7 +54,7 @@
 
 ## Post Install
 * Make the Boardcom Wi-Fi/BT card work on Sonoma with [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher).
-* Prevent high CPU usage caused by Bluetooth Deamon after wakeup with this [Gist](https://gist.github.com/webleon/2c2d5aba4e131acad04812ceb93ced8f).
+* Prevent high CPU usage caused by Bluetooth Deamon after wakeup with this [Gist](https://gist.github.com/webleon/8de3632a3d21fe1a670a9563703c45f2).
 
 
   
