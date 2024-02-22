@@ -57,8 +57,8 @@
 * Prevent high CPU usage caused by Bluetooth Deamon after wakeup with the [SleepWatcher scripts](https://gist.github.com/webleon/8de3632a3d21fe1a670a9563703c45f2).
 
 
+
+
   
 ## Screenshots
-![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/systeminfo.png)
-
-![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/geekbench6.png)
+![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/systeminfo.png) ![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/geekbench6.png)
