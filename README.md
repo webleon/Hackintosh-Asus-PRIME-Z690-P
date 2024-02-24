@@ -11,7 +11,7 @@
 * **RAM**: Asgard 32GBx4 DDR4 @3600 
 * **HDD**: Seagate FireCuda 510 2T
 * **LAN**: RTL8125B / Intel X550-T2
-* **Wi-Fi & Bluetooth**: BCM94360NG
+* **Wi-Fi & Bluetooth**: BCM943602CS
 
 
 
