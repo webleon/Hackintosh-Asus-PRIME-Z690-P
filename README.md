@@ -11,7 +11,7 @@
 * **RAM**: Asgard 32GBx4 DDR4 @3600 
 * **HDD**: Seagate FireCuda 510 2T
 * **LAN**: RTL8125B / Intel X550-T2
-* **Wi-Fi & Bluetooth**: BCM94360NG
+* **Wi-Fi & Bluetooth**: BCM943602CS
 
 
 
@@ -61,4 +61,6 @@
 
   
 ## Screenshots
-![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/systeminfo.png) ![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/geekbench6.png)
+![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/systeminfo.png) 
+![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/geekbench6.png)
+![](https://github.com/webleon/Hackintosh-Asus-PRIME-Z690-P/blob/main/images/cinebenchR23.png)
