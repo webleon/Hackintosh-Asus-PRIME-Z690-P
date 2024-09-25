@@ -1,6 +1,6 @@
 # Hackintosh-Asus-PRIME-Z690-P
 
-**Opencore Bootloader 0.9.8. Tested on Sonoma 14.3**
+**Opencore Bootloader 1.0.1. Tested on Sequoia 15.0**
 
 
 
