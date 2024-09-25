@@ -5,7 +5,7 @@
 
 
 ## Hardware
-* **Motherboard**: [ASUS PRIME Z690-P WIFI D4](https://www.asus.com/motherboards-components/motherboards/prime/prime-z690-p-wifi-d4/) (BIOS Version: 3010)
+* **Motherboard**: [ASUS PRIME Z690-P WIFI D4](https://www.asus.com/motherboards-components/motherboards/prime/prime-z690-p-wifi-d4/) (BIOS Version: 3403)
 * **CPU**:  Intel® Core™ i5-13600KF
 * **GPU**: [AMD Radeon™ RX 5700 XT Challenger D 8G OC](https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%205700%20XT%20Challenger%20D%208G%20OC/)
 * **RAM**: Asgard 32GBx4 DDR4 @3600 
